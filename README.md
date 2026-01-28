@@ -1,6 +1,4 @@
-<h1 align="center">Mark Oliver Gurtiza</h1>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
