@@ -12,13 +12,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" /> <img width="12" />
+
+
 </div>
 
 
