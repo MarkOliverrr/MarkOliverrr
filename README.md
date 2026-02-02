@@ -20,8 +20,10 @@ I am a Bachelor of Science in Information Technology student at **Central Luzon 
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind&perline=8" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind,laravel&perline=8" alt="Frameworks" />
 </a>
+<img src="https://img.shields.io/badge/CodeIgniter-EE672F?logo=codeigniter&logoColor=white&style=for-the-badge" />
+
 
 ### Databases & Tools
 <a href="https://skillicons.dev">
