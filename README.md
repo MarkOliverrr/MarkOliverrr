@@ -25,7 +25,7 @@ I am a Bachelor of Science in Information Technology student at **Central Luzon 
 
 ### Databases & Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mssql,linux,git,github,vscode,visualstudio&perline=8" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,git,github,vscode,visualstudio&perline=8" alt="Tools" />
 </a>
 <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
 
