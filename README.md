@@ -22,7 +22,7 @@ I am a Bachelor of Science in Information Technology student at **Central Luzon 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind,laravel&perline=8" alt="Frameworks" />
 </a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/CodeIgniter_Logo.png" width="40" height="40" alt="CodeIgniter" />
+
 
 
 
