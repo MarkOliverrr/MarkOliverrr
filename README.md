@@ -1,50 +1,31 @@
-
-
-<h2 align="center">🛠️ I code with</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" /> <img width="12" />
 
+# Hello, I'm Mark Oliver Gurtiza
+
+### Aspiring Web Developer | BSIT Student
+
+I am a Bachelor of Science in Information Technology student at **Central Luzon State University**. I am dedicated to building efficient software solutions, with a strong focus on full-stack development.
+
+[![](https://img.shields.io/badge/Portfolio-View_Site-0078D4?style=for-the-badge&logo=vercel&logoColor=white)](https://markoliver-gurtiza.vercel.app/)
+
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css&perline=8" alt="Languages" />
+</a>
+
+### Frameworks & Libraries
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,tailwind&perline=8" alt="Frameworks" />
+</a>
+
+### Databases & Tools
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mssql,linux,git,github,vscode,visualstudio&perline=8" alt="Tools" />
+</a>
 
 </div>
-
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mark-oliver-gurtiza-30a558218/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_mrkolvr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/MarkOliverGurtiza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="olivergurtiza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MarkOliverrr/MarkOliverrr/output/snake.svg" alt="Snake animation" />
-
-###
-
