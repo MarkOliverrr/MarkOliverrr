@@ -32,4 +32,8 @@ I am a Bachelor of Science in Information Technology student at **Central Luzon 
 </a>
 <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
 
+
+
 </div>
+
+![snake gif](https://github.com/MarkOliverrr/MarkOliverrr/blob/output/github-snake-dark.svg)
