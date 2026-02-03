@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Mark Oliver Gurtiza
+
 
 ### Aspiring Web Developer | BSIT Student
 
