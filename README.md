@@ -36,4 +36,4 @@ I am a Bachelor of Science in Information Technology student at **Central Luzon 
 
 </div>
 
-![snake gif](https://github.com/MarkOliverrr/MarkOliverrr/blob/output/github-snake-dark.svg)
+
