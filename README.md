@@ -1,3 +1,32 @@
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                    HUNTER INFORMATION                    ║
+╠══════════════════════════════════════════════════════════╣
+║  NAME: Mark Oliver Gurtiza                               ║
+║  ALIAS: Oli                                              ║
+║  AGE: 23                                                 ║
+║  LEVEL: 4th year                                         ║
+║  CLASS: Full-Stack Developer                             ║
+║  GUILD: CLSU                                             ║
+║  SPECIALTY: Web Development & UI/ UX                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAxc25rMWMzMWVocjV0NGE5ejVzYzdybnp1b21nemM1MHpsMmc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggaDSurtR6YN9MsW07/giphy.gif" width="350px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 <div align="center">
 
 
