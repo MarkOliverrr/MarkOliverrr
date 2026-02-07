@@ -12,7 +12,7 @@
 ║  AGE: 23                                                 ║
 ║  LEVEL: 4th year                                         ║
 ║  CLASS: Full-Stack Developer                             ║
-║  GUILD: CLSU                                             ║
+║  SCHOOL: CENTRAL LUZON STATE UNIVERSITY                  ║
 ║  SPECIALTY: Web Development & UI/ UX                     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
