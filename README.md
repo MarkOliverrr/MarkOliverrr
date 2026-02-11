@@ -19,7 +19,7 @@
 </pre>
       </td>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo3bTRkYTR3MHp1OWUxZTZlaW0yMTM5N203M2U4dzF2dDI4ZjcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqwEfwktDpy5GpwrkK/giphy.gif" width="350px" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU3bTBrNTVrdGkwdTZmb3R0amZtcDRwOW15dmZmcGxxems0Ymp0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Uqp5IGFpmDle/giphy.gif" width="350px" />
       </td>
     </tr>
   </table>
