@@ -19,7 +19,7 @@
 </pre>
       </td>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://media1.tenor.com/m/DX9o8Spwg5wAAAAC/chopper-tonytony.gif" width="350px" />
+        <img src="https://media1.tenor.com/m/MVFAsfv3wk0AAAAC/one-piece-one-piece-movie.gif" width="350px" />
       </td>
     </tr>
   </table>
