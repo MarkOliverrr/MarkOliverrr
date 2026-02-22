@@ -19,7 +19,7 @@
 </pre>
       </td>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://media1.tenor.com/m/LY9V-Ax-rMYAAAAd/anniversaire.gif](https://i.pinimg.com/originals/de/5a/dc/de5adc4945ff9e61ba495d6ef39cb3b4.gif" width="350px" />
+        <img src="https://i.pinimg.com/originals/de/5a/dc/de5adc4945ff9e61ba495d6ef39cb3b4.gif" width="350px" />
       </td>
     </tr>
   </table>
