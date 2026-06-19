@@ -9,10 +9,9 @@
 ╠══════════════════════════════════════════════════════════╣
 ║  NAME: Mark Oliver Gurtiza                               ║
 ║  ALIAS: Oli                                              ║
-║  AGE: 23                                                 ║
-║  LEVEL: 4th year                                         ║
+║  AGE: 24                                                 ║
 ║  CLASS: Full-Stack Developer                             ║
-║  SCHOOL: CENTRAL LUZON STATE UNIVERSITY                  ║
+║  SCHOOL GRADUATED: CENTRAL LUZON STATE UNIVERSITY        ║
 ║  SPECIALTY: Web Development & UI/ UX                     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
