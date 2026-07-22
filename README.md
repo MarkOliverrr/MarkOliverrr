@@ -5,15 +5,15 @@
       <td align="center" style="vertical-align: middle;">
 <pre>
 ╔══════════════════════════════════════════════════════════╗
-║                    PERSONAL INFORMATION                  ║
+║                     DEVELOPER PROFILE                    ║
 ╠══════════════════════════════════════════════════════════╣
-║  NAME: Mark Oliver Gurtiza                               ║
-║  ALIAS: Oli                                              ║
-║  AGE: 24                                                 ║
-║  CLASS: Full-Stack Developer                             ║
-║  SCHOOL GRADUATED: CENTRAL LUZON STATE UNIVERSITY        ║
+║  ROLE       : Full-Stack Developer                      ║
+║  LOCATION   : Philippines                               ║
+║  EXPERIENCE : Internship + Personal Projects            ║
+║  SPECIALTY  : Laravel, React, ASP.NET                   ║
+║  STATUS     : Open to Work                              ║
 ║                                                          ║
-║                                                          ║
+║  > Building modern web applications.                    ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
       </td>
