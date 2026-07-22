@@ -7,13 +7,13 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                     DEVELOPER PROFILE                    ║
 ╠══════════════════════════════════════════════════════════╣
-║  ROLE       : Full-Stack Developer                      ║
-║  LOCATION   : Philippines                               ║
-║  EXPERIENCE : Internship + Personal Projects            ║
-║  SPECIALTY  : Laravel, React, ASP.NET                   ║
-║  STATUS     : Open to Work                              ║
+║  ROLE       : Full-Stack Developer                       ║
+║  LOCATION   : Philippines                                ║
+║  EXPERIENCE : Internship + Personal Projects             ║
+║  SPECIALTY  : Laravel, React, ASP.NET                    ║
+║  STATUS     : Open to Work                               ║
 ║                                                          ║
-║  > Building modern web applications.                    ║
+║  > Building modern web applications.                     ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
       </td>
