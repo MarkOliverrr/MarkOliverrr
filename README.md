@@ -12,7 +12,7 @@
 ║  AGE: 24                                                 ║
 ║  CLASS: Full-Stack Developer                             ║
 ║  SCHOOL GRADUATED: CENTRAL LUZON STATE UNIVERSITY        ║
-║  SPECIALTY: Web Development & UI/ UX                     ║
+║                                                          ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
